@@ -3,4 +3,4 @@ uvicorn
 pydantic
 groq==0.4.2
 python-dotenv
-httpx==0.24.1
+httpx<0.25
