@@ -1,5 +1,8 @@
 # 🧠 MeetSmart — AI Meeting Intelligence for Indian Teams
 
+https://meet-smart-seven.vercel.app/
+
+
 > Paste any meeting transcript in English, Hinglish, or Hindi. Get a full intelligence report in seconds.
 
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square)
